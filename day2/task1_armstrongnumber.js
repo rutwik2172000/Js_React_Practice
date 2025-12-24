@@ -15,7 +15,7 @@ const isArmstrong = (num) => {
 for (let i = 1; i <= 1000; i++) {
   if (isArmstrong(i)) {
     console.log(i);
-  }
+  } 
 }
 
 

@@ -39,7 +39,7 @@ for(let i=0;i<arguments.length;i++)
     sum+=arguments[i];
 }
 return sum
-}
+} 
 result1=add(10,20)
 result2=add(10,20,30)
 console.log(result1)
