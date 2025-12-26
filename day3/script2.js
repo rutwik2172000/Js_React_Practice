@@ -19,7 +19,7 @@ console.log(foods1)
 fruits.push("Papaya")
 console.log(fruits)
 
-let newFruits=[...fruits,"Kiwi"]  //"Apple", "Mango", "Banana", "Kiwi"
+let newFruits=[...fruits,"Kiwi"]  //"Apple", "Mango", "Banana", "Kiwi" // spred operator
 console.log(newFruits)
 
 
